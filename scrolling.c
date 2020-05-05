@@ -1,3 +1,6 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <SDL/SDL.h>
 void Point::move()
 {
     //Bouge le point à gauche ou à droite
