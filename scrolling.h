@@ -1,3 +1,5 @@
+#ifndef _PROTOTYPE_JEU_H
+#define _PROTOTYPE_JEU_H
 //Les attributs de l'écran (640 * 480)
 const int SCREEN_WIDTH = 640;
 const int SCREEN_HEIGHT = 480;
@@ -52,3 +54,4 @@ class Point
     //Met la camera sur le point
     void set_camera();
 };
+#endif
