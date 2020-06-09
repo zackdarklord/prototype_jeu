@@ -1,5 +1,5 @@
-#ifndef _PROTOTYPE_JEU_H
-#define _PROTOTYPE_JEU_H
+#ifndef _FONCTION_H
+#define _FONCTION_H
 
 int bounding_box ( SDL_Rect personnage ,SDL_Rect entite);
 
