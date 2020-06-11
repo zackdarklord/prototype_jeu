@@ -1,4 +1,13 @@
 
+/**
+* @file animation.c
+* @brief Testing Program.
+* @author escapethebookteam
+* @version 0.1
+* 
+* programmme d'animation des entités
+*
+*/
 #include "animation.h"
 
 

@@ -1,3 +1,15 @@
+
+
+
+/**
+* @file boundingbox.c
+* @brief Testing Program.
+* @author escapethebookteam
+* @version 0.1
+* 
+*  programme de test de collision
+*
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <SDL/SDL.h>

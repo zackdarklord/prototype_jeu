@@ -1,3 +1,12 @@
+/**
+* @file ennemy.c
+* @brief Testing Program.
+* @author escapethebookteam
+* @version 0.1
+* 
+* programme de initialisation ennemie
+*
+*/
 #include "ennemy.h"
 
 
